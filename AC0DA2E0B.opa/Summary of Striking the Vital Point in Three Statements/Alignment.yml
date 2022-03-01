@@ -1,0 +1,16 @@
+segment_sources:
+  PD44474CC:
+    type: origin_type
+    relation: translation
+    language: en
+  P88397B98:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  61081a0df91b472a968323f78fb429a5:
+    PD44474CC: 13d60fcefdf1412590747bf89df4127d
+    P88397B98: b1ff03f2bdf7498b9482fd80b9badea8
+  a9e7d9245d4e44bca27db85bacd43067:
+    PD44474CC: 85af8a2dcbc7452e823539e62677f284
+    P88397B98: ca7d976826e24f60b7f8d65977dd8708

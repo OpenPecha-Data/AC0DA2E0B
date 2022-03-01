@@ -1,0 +1,26 @@
+segment_sources:
+  PD44474CC:
+    type: origin_type
+    relation: translation
+    language: en
+  PB82823D0:
+    type: origin_type
+    relation: translation
+    language: fr
+  P88397B98:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  3e34e1a06de14d0b9eda9530004b1da7:
+    PD44474CC: c99047e799064e0b9de1e57cf6e2d30b
+    PB82823D0: 365f3c0468db4272be161e7261c8179e
+    P88397B98: ae8c4bd9309848b4bc20756b644aad9a
+  c2990750e0354fb69545ec8da33c1285:
+    PD44474CC: c9d6df365351464287e3d7e5953eac63
+    PB82823D0: 0360affa8bd84a4aa166905db08b9f86
+    P88397B98: c6b68f7faf7c40d68540b3f9cf0938f9
+  35d642c3fc0641bfbcbcd803438220a5:
+    PD44474CC: 279ae851d86c4d1a85611d7cdd0f3dd4
+    PB82823D0: 5f25a79412924c73a358ecc4dae56d57
+    P88397B98: fcfb040000e34c358381db6c07d96930
